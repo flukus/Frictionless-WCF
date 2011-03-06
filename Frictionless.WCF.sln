@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frictionless.WCF.Client", "src\app\Frictionless.WCF.Client\Frictionless.WCF.Client.csproj", "{919B2469-CBC7-427B-8A1D-CCDF51261386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frictionless.WCF.Interface", "src\app\Frictionless.WCF.Interface\Frictionless.WCF.Interface.csproj", "{7AD04755-0AD1-4111-8F46-A396B4193756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frictionless.WCF.Service", "src\app\Frictionless.WCF.Service\Frictionless.WCF.Service.csproj", "{B394DBBC-71EA-44D6-A88D-645EA20E0CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919B2469-CBC7-427B-8A1D-CCDF51261386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919B2469-CBC7-427B-8A1D-CCDF51261386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919B2469-CBC7-427B-8A1D-CCDF51261386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919B2469-CBC7-427B-8A1D-CCDF51261386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD04755-0AD1-4111-8F46-A396B4193756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD04755-0AD1-4111-8F46-A396B4193756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD04755-0AD1-4111-8F46-A396B4193756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD04755-0AD1-4111-8F46-A396B4193756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B394DBBC-71EA-44D6-A88D-645EA20E0CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B394DBBC-71EA-44D6-A88D-645EA20E0CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B394DBBC-71EA-44D6-A88D-645EA20E0CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B394DBBC-71EA-44D6-A88D-645EA20E0CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+
+/src/app/Frictionless.WCF.Client/obj
+/src/app/Frictionless.WCF.Client/bin
+/src/app/Frictionless.WCF.Interface/bin
+/src/app/Frictionless.WCF.Interface/obj
+/src/app/Frictionless.WCF.Service/bin
+/src/app/Frictionless.WCF.Service/obj
+*.suo
